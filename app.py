@@ -12,13 +12,13 @@ from sklearn.model_selection import train_test_split
 from sklearn.metrics import accuracy_score
 
 # Load the diabetes dataset
-df = pd.read_csv(r'https://github.com/403-found/Diabetes_Prediction.git/diabetes.csv')
+df = pd.read_csv(r'diabetes.csv')
 
 # Page Configuration
 st.set_page_config(page_title='Diabetes Prediction', page_icon=':hospital:', layout='wide')
 
 # Sidebar Design
-st.sidebar.image(r'https://github.com/403-found/Diabetes_Prediction.git/diabetes-logo.png', use_column_width=True)
+st.sidebar.image(r'diabetes-logo.png', use_column_width=True)
 st.sidebar.title('Patient Data')
 st.sidebar.subheader('Enter Your Information')
 
