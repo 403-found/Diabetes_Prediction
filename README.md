@@ -1,2 +1,7 @@
-# Diabetes_Prediction
-Diabetes Prediction Model using libraries like NumPy, Scikit-Learn based on various parameters like Glucose, Blood Thickness, Insulin, BMI etc.
+# diabetes_prediction
+Preview of the Project
+
+![](images/1.PNG)
+![](images/2.PNG)
+![](images/3.PNG)
+![](images/4.PNG)
