@@ -83,7 +83,4 @@ if st.button('Predict'):
 
 # Footer Design
 st.markdown('---')
-st.write('This app is for educational purposes only and is not intended for medical use. '
-         'It uses a simple RandomForestClassifier for demonstration purposes. '
-         'Please consult a healthcare professional for accurate diagnosis and advice.')
 
