@@ -1,4 +1,4 @@
-# diabetes_prediction
+# Diabetes_Prediction Project 
 Preview of the Project
 
 ![Image1](Images/IMG1.PNG)
