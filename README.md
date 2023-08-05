@@ -1,7 +1,7 @@
 # Diabetes_Prediction Project 
 Preview of the Project
 
-![Image1](Images/IMG1.PNG)
-![Image2](Images/IMG2.PNG)
-![Image3](Images/IMG3.PNG)
-![Image4](Images/IMG4.PNG)
+![Image1](Images/IMG1.png)
+![Image2](Images/IMG2.png)
+![Image3](Images/IMG3.png)
+![Image4](Images/IMG4.png)
