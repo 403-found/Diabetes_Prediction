@@ -78,8 +78,10 @@ if st.button('Predict'):
 
     # Show model accuracy
     st.subheader('Model Accuracy')
-    accuracy = accuracy_score(y_test, rf.predict(x_test))
-    st.write(f'The accuracy of the model is: {accuracy:.2%}')
+    fig, ax = plt.subplots()
+    sns.barplot(x=['Model Accuracy'], y=[accuracy_score(y_test, rf.predict(x_test))], palette=['blue'], ax=ax)
+    ax.set(ylabel='Accuracy')
+    st.pyplot(fig)
 
 # Footer Design
 st.markdown('---')
